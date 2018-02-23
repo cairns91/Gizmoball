@@ -1,4 +1,4 @@
-Gizmoball
+# Gizmoball
 
 Group project, main focus was in front-end design and implementation including listeners, implementation of reading/writing to files for saved games and all documentation.
 
